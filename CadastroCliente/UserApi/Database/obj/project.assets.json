@@ -615,11 +615,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\Database\\Database.csproj",
+      "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\Database\\Database.csproj",
       "projectName": "Database",
-      "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\Database\\Database.csproj",
+      "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\Database\\Database.csproj",
       "packagesPath": "C:\\Users\\isado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\Database\\obj\\",
+      "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isado\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -634,8 +634,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\Domain\\Domain.csproj"
+            "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\Domain\\Domain.csproj"
             }
           }
         }

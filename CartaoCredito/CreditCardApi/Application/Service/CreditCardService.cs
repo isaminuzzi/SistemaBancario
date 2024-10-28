@@ -48,9 +48,9 @@ public class CreditCardService (IMessage message,
         model.CheckIfModelIsValid();
         
         //validações do externa do cliente - Ex: Serasa
-       
+        //caso o cliente não esteja apto a solicitar o cartão, retorna uma exceção, não cria o cartão e gera um log de erro
         
-        //cria o cartão
+        //cria o cartão - caso o usuário esteja apto
         var creditCard = new CreditCardEntity
         {
             Id = model.RequestCreditCardId,

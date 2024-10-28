@@ -1,0 +1,16 @@
+﻿@startuml
+actor User
+participant "API" as Api
+participant "Service" as Service
+participant "MessageQueue" as RabbitMq
+participant "Repository" as Repository
+
+User -> Api: Send Request
+Api -> Service: Process Request
+Service -> Repository: Query Data
+Repository -> Service: Return Data
+Service -> RabbitMq: Send Message
+RabbitMq -> Service: Receive Message
+Service -> Api: Return Response
+Api -> User: Send Response
+@enduml

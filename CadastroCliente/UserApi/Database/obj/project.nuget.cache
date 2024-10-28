@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RCz7HC+PHNE=",
+  "dgSpecHash": "xT3TuUSXn38=",
   "success": true,
-  "projectFilePath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\Database\\Database.csproj",
+  "projectFilePath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\Database\\Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isado\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0-rc.2.24474.1\\microsoft.entityframeworkcore.9.0.0-rc.2.24474.1.nupkg.sha512",
     "C:\\Users\\isado\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0-rc.2.24474.1\\microsoft.entityframeworkcore.abstractions.9.0.0-rc.2.24474.1.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dJboQpN4bbI=",
+  "dgSpecHash": "fRSOM4xcgXE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CadastroCliente\\UserApi\\UserApi\\UserApi.csproj",
+  "projectFilePath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CadastroCliente\\UserApi\\UserApi\\UserApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isado\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\isado\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",

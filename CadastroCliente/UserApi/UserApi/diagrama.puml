@@ -1,0 +1,13 @@
+@startuml
+actor User
+participant API
+participant UserService
+participant Database
+
+User -> API: POST /users
+API -> UserService: CreateUserAsync(model)
+UserService -> Database: Insert User
+Database -> UserService: User Created
+UserService -> API: CreateUserOutModel
+API -> User: 201 Created
+@enduml

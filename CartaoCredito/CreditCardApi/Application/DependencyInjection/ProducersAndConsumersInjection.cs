@@ -7,7 +7,7 @@ namespace Application.DependencyInjection;
 
 public static class ProducersAndConsumersInjection
 {
-    public static void AddProducersAndConsumers(this IServiceCollection services, IConfiguration configuration)
+    public static IServiceCollection AddProducersAndConsumers(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddMassTransit(x =>
         {
@@ -27,5 +27,6 @@ public static class ProducersAndConsumersInjection
         });
 
         services.AddMassTransitHostedService();
+        return services;
     }
 }

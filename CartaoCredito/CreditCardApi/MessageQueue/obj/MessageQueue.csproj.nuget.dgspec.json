@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj": {}
+    "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj": {
+    "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\isado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isado\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj": {
+    "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj",
+        "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj",
         "projectName": "MessageQueue",
-        "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj",
+        "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\MessageQueue\\MessageQueue.csproj",
         "packagesPath": "C:\\Users\\isado\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\MessageQueue\\obj\\",
+        "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\MessageQueue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isado\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,8 +84,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj"
+              "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -107,7 +107,7 @@
           "dependencies": {
             "MassTransit": {
               "target": "Package",
-              "version": "[8.3.1-develop.2089, )"
+              "version": "[8.3.0, )"
             },
             "MassTransit.Extensions.DependencyInjection": {
               "target": "Package",
@@ -115,7 +115,7 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0-rc.2.24474.1, )"
+              "version": "[8.0.10, )"
             },
             "Microsoft.Extensions.ObjectPool": {
               "target": "Package",
