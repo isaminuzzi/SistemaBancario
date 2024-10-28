@@ -5784,18 +5784,18 @@
     },
     "Application/1.0.0": {
       "type": "project",
-      "path": "../../Application/Application.csproj",
-      "msbuildProject": "../../Application/Application.csproj"
+      "path": "../Application/Application.csproj",
+      "msbuildProject": "../Application/Application.csproj"
     },
     "Domain/1.0.0": {
       "type": "project",
-      "path": "../../Domain/Domain.csproj",
-      "msbuildProject": "../../Domain/Domain.csproj"
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     },
     "MessageQueue/1.0.0": {
       "type": "project",
-      "path": "../../MessageQueue/MessageQueue.csproj",
-      "msbuildProject": "../../MessageQueue/MessageQueue.csproj"
+      "path": "../MessageQueue/MessageQueue.csproj",
+      "msbuildProject": "../MessageQueue/MessageQueue.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5812,11 +5812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\2 - Presentation\\Api\\Api.csproj",
+      "projectUniqueName": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Presentation\\Api.csproj",
       "projectName": "Api",
-      "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\2 - Presentation\\Api\\Api.csproj",
+      "projectPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Presentation\\Api.csproj",
       "packagesPath": "C:\\Users\\isado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\2 - Presentation\\Api\\obj\\",
+      "outputPath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Presentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\isado\\AppData\\Roaming\\NuGet\\NuGet.Config"

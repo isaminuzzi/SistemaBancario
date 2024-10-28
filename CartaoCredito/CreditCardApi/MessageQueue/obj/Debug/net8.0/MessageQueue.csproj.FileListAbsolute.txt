@@ -1,0 +1,16 @@
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\bin\Debug\net8.0\MessageQueue.deps.json
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\bin\Debug\net8.0\MessageQueue.dll
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\bin\Debug\net8.0\MessageQueue.pdb
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\bin\Debug\net8.0\Domain.dll
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\bin\Debug\net8.0\Domain.pdb
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.csproj.AssemblyReference.cache
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.AssemblyInfoInputs.cache
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.AssemblyInfo.cs
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.csproj.CoreCompileInputs.cache
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.sourcelink.json
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQ.2D348BFB.Up2Date
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.dll
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\refint\MessageQueue.dll
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\MessageQueue.pdb
+C:\Users\isado\OneDrive\Documentos\Pessoal\Prova tecnica\CadastroCliente\SistemaBancario\CartaoCredito\CreditCardApi\MessageQueue\obj\Debug\net8.0\ref\MessageQueue.dll

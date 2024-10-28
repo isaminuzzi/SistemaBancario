@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+AL9i09xPmA=",
+  "dgSpecHash": "7UPRhbHEcUQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\2 - Presentation\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\isado\\OneDrive\\Documentos\\Pessoal\\Prova tecnica\\CadastroCliente\\SistemaBancario\\CartaoCredito\\CreditCardApi\\Presentation\\Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\isado\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\isado\\.nuget\\packages\\masstransit\\8.3.0\\masstransit.8.3.0.nupkg.sha512",
