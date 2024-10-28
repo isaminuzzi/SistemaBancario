@@ -5,12 +5,13 @@ participant "Service" as Service
 participant "MessageQueue" as RabbitMq
 participant "Repository" as Repository
 
-User -> Api: Send Request
+User -> Api: POST/api/CreditCard/RequestCreditCard
 Api -> Service: Process Request
-Service -> Repository: Query Data
-Repository -> Service: Return Data
-Service -> RabbitMq: Send Message
-RabbitMq -> Service: Receive Message
+Service -> RabbitMq: PreRequestCreditCardAsync (Send Message)
+RabbitMq -> Service: RequestCreditCardAsync (Process Message)
+
+Service -> Repository: RequestCreditCardAsync (RequestCreditCardInModel)
+Repository -> Service: RequestCreditCardOutModel
 Service -> Api: Return Response
 Api -> User: Send Response
 @enduml

@@ -6,7 +6,7 @@ namespace Api.Controller;
 
 public class CreditProposalController : ApiControllerBase
 {
-    //endpoint POST api/CreditCard/RequestCreditProposal
+    //endpoint POST api/Credit/RequestCreditProposal
     [HttpPost("RequestCreditProposal")]
     public async Task<ActionResult> RequestCreditProposal(RequestCreditProposalRequest request)
     {
